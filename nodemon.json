@@ -1,0 +1,8 @@
+{
+    "env": {
+        "DB_USER": "larpUser",
+        "DB_PASSWORD": "Butttown42069",
+    "DB_NAME": "mern",
+    "GOOGLE_API_KEY": "AIzaSyDspkliXhiCPSCbRY7noNsBpo7dkfAL3Cs"
+    }
+}

@@ -1,2 +1,0 @@
-# BattleBackend
-backend for larp
